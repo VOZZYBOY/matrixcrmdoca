@@ -1,11 +1,4 @@
 {
-    "title": "MatrixCRM Documentation",
-    "author": "Dream's Organization",
-    "description": "Документация для MatrixCRM",
-    "plugins": ["custom-styles"],
-    "pluginsConfig": {
-        "custom-styles": {
-            "styles": "./.gitbook/assets/custom.css"
-        }
-    }
+  "language": "ru",
+  "plugins": []
 }
