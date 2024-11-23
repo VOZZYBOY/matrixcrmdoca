@@ -1,0 +1,19 @@
+/* Стили для кнопки "Далее" */
+a.next {
+    background-color: #4CAF50; /* Зеленый цвет кнопки */
+    color: white; /* Белый цвет текста */
+    padding: 10px 20px; /* Отступы для удобства */
+    border-radius: 5px; /* Закругленные углы */
+    text-decoration: none; /* Убираем подчеркивание */
+    font-weight: bold; /* Жирный шрифт */
+}
+
+/* Стили для кнопки "Предыдущая" (если нужно изменить и её) */
+a.previous {
+    background-color: #f44336; /* Красный цвет кнопки */
+    color: white; /* Белый цвет текста */
+    padding: 10px 20px; /* Отступы */
+    border-radius: 5px; /* Закругленные углы */
+    text-decoration: none; /* Убираем подчеркивание */
+    font-weight: bold; /* Жирный шрифт */
+}
