@@ -53,15 +53,6 @@ MatrixCRM - это всесторонний инструмент, который
 * **Обучение и Поддержка**: Воспользуйтесь нашими ресурсами обучения и поддержки, чтобы получить максимум из MatrixCRM.
 * **Начало Работы с MatrixCRM**: Начните работать с MatrixCRM и исследуйте его функции и возможности.
 
-```html
-<a href="https://example.com/previous-page" class="btn">Предыдущая</a>
-<a href="https://example.com/next-page" class="btn">Следующая</a>
-```
-
-
-
-
-
 ### Навигация
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Начало работы</td><td><a href="nachalo-raboty/quickstart/">Общая информация о MatrixCRM</a></td><td></td><td></td><td><a href="nachalo-raboty/quickstart/">quickstart</a></td></tr><tr><td>Настройки</td><td><a href="nastroiki/nastroiki-matrixcrm/">Настройки MatrixCRM</a></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td>Онлайн записи</td><td><a href="broken-reference">Онлайн-запись</a></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td>Отчётность</td><td><a href="otchetnost/finansy/">Финансы</a></td><td></td><td></td><td></td></tr><tr><td>Лояльность</td><td><a href="loyalnost/programmy-loyalnosti/">Программы лояльность</a></td><td></td><td></td><td></td></tr><tr><td>Филиал</td><td><a href="filial/glavnyi-ekran-razdela-filial.md">Главный экран раздела филиал</a></td><td></td><td></td><td></td></tr><tr><td>Сети</td><td><a href="seti/glavnyi-ekran-razdela-seti.md">Главный экран раздела сети</a></td><td></td><td></td><td></td></tr><tr><td>Настройки Филиала/Сети</td><td><a href="broken-reference">Настройки</a></td><td></td><td></td><td></td></tr></tbody></table>
