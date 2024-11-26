@@ -12,7 +12,7 @@ description: >-
 1. Откройте раздел **"Отдел продаж"** в боковом меню.
 2. Выберите подраздел **"Клиентская база"**.
 
-<figure><img src="../../../../.gitbook/assets/image (509).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (519).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -55,9 +55,7 @@ description: >-
 
     После заполнения полей нажмите **"Сохранить"**, чтобы добавить клиента в базу.
 
-<figure><img src="../../../../.gitbook/assets/image (510).png" alt=""><figcaption></figcaption></figure>
-
-***
+<figure><img src="../../../../.gitbook/assets/image (518).png" alt=""><figcaption></figcaption></figure>
 
 **Массовая загрузка клиентов:**
 
