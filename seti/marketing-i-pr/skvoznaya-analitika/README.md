@@ -15,7 +15,7 @@ description: >-
 1. В главном меню на левой панели выберите "Маркетинг и PR".
 2. В открывшемся меню выберите пункт "Сквозная аналитика".
 
-<figure><img src="../../.gitbook/assets/image (464).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (464).png" alt=""><figcaption></figcaption></figure>
 
 **Основной функционал**
 
@@ -29,7 +29,7 @@ description: >-
 
 Это позволяет пользователю анализировать эффективность рекламных каналов и корректировать стратегии кампаний.
 
-<figure><img src="../../.gitbook/assets/image (465).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (465).png" alt=""><figcaption></figcaption></figure>
 
 #### Фильтрация и группировка данных
 
@@ -37,7 +37,7 @@ description: >-
 
 Пользователь может выбрать конкретный временной интервал для анализа, используя два поля для выбора начальной и конечной даты. Эта опция помогает сортировать данные за указанный промежуток времени, что полезно для изучения активности клиентов за определённый период.
 
-<figure><img src="../../.gitbook/assets/image (466).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (466).png" alt=""><figcaption></figcaption></figure>
 
 **Группировка данных**
 
@@ -49,7 +49,7 @@ description: >-
 
 Выпадающее меню "Группировать" предоставляет возможность выбрать нужный вариант отображения.
 
-<figure><img src="../../.gitbook/assets/image (467).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (467).png" alt=""><figcaption></figcaption></figure>
 
 #### Изменение типа графика
 
@@ -58,6 +58,6 @@ description: >-
 * **Линейный график** – для отслеживания динамики изменений,
 * **Столбчатый график** – для сравнения показателей по различным временным отрезкам.
 
-<figure><img src="../../.gitbook/assets/image (468).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (468).png" alt=""><figcaption></figcaption></figure>
 
 Эти функции обеспечивают гибкость при работе с данными, что позволяет легко анализировать информацию и принимать обоснованные решения.

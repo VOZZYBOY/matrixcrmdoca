@@ -13,13 +13,13 @@ description: >-
 1. В главном меню на левой панели выберите раздел "Маркетинг и PR".
 2. В выпадающем меню выберите пункт "Автоворонки".
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 **Создание автоворонки**
 
 При нажатии на кнопку "Создать автоворонку" открывается конструктор, где можно добавлять различные элементы автоворонки: **Событие**, **Условие**, **Действие** и **Ожидание**. Для того чтобы взаимодействовать с элементами, их необходимо перенести на рабочую область.
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 **Описание элементов:**
 
@@ -32,4 +32,4 @@ description: >-
 
 После того как все элементы добавлены, необходимо их соединить стрелками, чтобы задать последовательность выполнения шагов. Важно не забыть нажать на кнопку "Сохранить", чтобы автоворонка начала работать.
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>

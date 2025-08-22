@@ -4,7 +4,7 @@
 
 **Навигация**: Перейдите в **Маркетинг и PR > Рекламные каналы** на боковой панели.
 
-<figure><img src="../../.gitbook/assets/image (476).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (476).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -25,15 +25,15 @@
 * **Список записей** — журнал визитов с деталями по клиентам и статусами.
 *
 
-    <figure><img src="../../.gitbook/assets/image (479).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (479).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (477).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (477).png" alt=""><figcaption></figcaption></figure>
 
 **Правила назначения записей**
 
 Выберите логику распределения сделок — по UTM-меткам или вручную. Заполните поля UTM-правил, чтобы задать параметры для каждого канала, если распределение сделок по меткам активировано.
 
-<figure><img src="../../.gitbook/assets/image (481).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (481).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -41,4 +41,4 @@
 
 Список записей предоставляет журнал визитов с возможностью фильтрации по дате, статусу и автору. Здесь отображаются услуги, время визита, клиент и статус визита.
 
-<figure><img src="../../.gitbook/assets/image (480).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (480).png" alt=""><figcaption></figcaption></figure>
