@@ -13,7 +13,7 @@ description: >-
 1. В главном меню на левой панели выберите раздел "Маркетинг и PR".
 2. В выпадающем меню выберите пункт "Список сегментов".
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 **Создание сегмента**
 
@@ -22,7 +22,7 @@ description: >-
 * **Наименование сегмента** — уникальное имя для идентификации сегмента.
 * **Описание сегмента** — краткое описание целей и особенностей данного сегмента.
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 **Добавление условий сегментации**
 
@@ -30,11 +30,11 @@ description: >-
 
 * **Наименование** — тип условия (например, сумма всех заказов, количество оплаченных товаров и услуг, последняя активность и т.д.).
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 * **Параметр** — оператор сравнения (равно, больше, меньше и т.д.).
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 * **Значение** — конкретное значение для условия.
 
